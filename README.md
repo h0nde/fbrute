@@ -39,4 +39,4 @@ optional arguments:
   ```
 
 # Proxies
-The tool will automatically switch over to the next proxy in the list when it detects an unrecognized status code (e.g: 429).
+Threads will automatically switch over to the next proxy in the list when it detects an unrecognized status code (e.g: 429).
