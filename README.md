@@ -37,4 +37,6 @@ optional arguments:
                         Ignored status codes
   --shuffle             Shuffle order of charset
   ```
- 
+
+# Proxies
+The tool will automatically switch over to the next proxy in the list when it detects an unrecognized status code (e.g: 429).
