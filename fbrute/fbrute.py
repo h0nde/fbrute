@@ -3,10 +3,6 @@ from managers import ConnectionManager
 from threading import Thread
 from utils import FilenameIterator, update_stats, get_args
 from urllib.parse import urljoin
-import argparse
-import string
-import itertools
-import random
 import time
 import os
 
