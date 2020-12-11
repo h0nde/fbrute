@@ -1,0 +1,3 @@
+- Rename charset to something else
+- Add arg for max file sizes
+- Add streaming support
