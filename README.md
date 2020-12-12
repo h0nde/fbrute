@@ -3,7 +3,7 @@ For bruteforcing content on file-sharing websites, with support for multiple pro
 
 # Usage
 ```
-python fbrute -u https://a.pomf.cat/ -t 500 -e .png .jpg -l 6 -p proxies.txt -o links.txt -d files
+python fbrute --url https://a.pomf.cat/ --ext .png .jpg --length 6 --threads 500 --proxyfile proxies.txt --outputfile links.txt --download files
 ```
 
 ```
