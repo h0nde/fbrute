@@ -1,5 +1,5 @@
 # fbrute
-For bruteforcing content on file-sharing websites, with support for multiple proxies.
+Tool for bruteforcing content on file-sharing websites, with support for multiple proxies.
 
 # Usage
 ```
